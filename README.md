@@ -1,0 +1,1 @@
+THis repository contains the Computer Shopee project using Win32 APIs.

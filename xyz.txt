@@ -1,0 +1,28 @@
+					Astromedicomp
+Name: xyz
+****************************************************************
+	Component			Selection			Cost
+	Processor:			Intel Core i3 8100 3.60GHz 			Rs.9638
+
+	Motherboard:			 - 			Rs.0
+
+	RAM:			 - 			Rs.0
+
+	Graphics Processor:			Nvidia GeForce GeForce 700 MSI GT 710 2GB DDR5 			Rs.2979
+
+	Hard Drive:			 - 			Rs.0
+
+	Monitor:			 - 			Rs.0
+
+	DVD-ROM Drive:			 - 			Rs.0
+
+	Power Supply Unit:			 - 			Rs.0
+
+	Cabinet:			 - 			Rs.0
+
+	Keyboard:			 - 			Rs.0
+
+	Mouse:			 - 			Rs.0
+
+****************************************************************
+Total Cost: 12617
